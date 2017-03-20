@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/amit/catkin_ws10/devel/setup.sh
